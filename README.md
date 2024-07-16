@@ -1,16 +1,21 @@
-# animation_ui
+# E_Commerce App #
 
-A new Flutter project.
+## Table of Contents
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+E-Commerce App App is a beautifully designed and fully functional E-Commerce App application built using Flutter. The app leverages rich animations like page transitions and the Hero widget to provide an engaging and smooth user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/7645e50b-41a0-4ae4-817d-e12b6ff0bdc3" height = 400>
+<img src = "https://github.com/user-attachments/assets/bfe4d3b7-dc12-44e2-a646-f9ec52d763af" height = 400>
+<img src = "https://github.com/user-attachments/assets/3b7334e9-3cf9-471a-9977-c79a87daea7f" height = 400>
+</p>
+
+## video
+
+
